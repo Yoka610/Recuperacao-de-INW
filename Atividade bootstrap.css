@@ -1,0 +1,28 @@
+#carousel-item {
+    height: 400px;
+}
+#carousel-item img {
+    height: 150%; 
+    object-fit: cover; 
+}
+#card1 {
+position: absolute;
+top: 550px;
+left: 450px;
+}
+#card2 {
+position: absolute;
+top: 550px;
+left: 750px;
+}
+#card3 {
+position: absolute;
+top: 550px;
+left: 1050px;
+}
+#nome{
+ position: absolute;
+ color: black;
+ top: 500px;
+left: 850px;
+}
